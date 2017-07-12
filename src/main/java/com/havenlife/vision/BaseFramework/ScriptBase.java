@@ -1,10 +1,10 @@
-package baseFramework;
+package com.havenlife.vision.BaseFramework;
 
 import DriverUtils.ApplicationFactory;
 import DriverUtils.DriverFactory;
 import com.paxovision.execution.reporter.listener.ReporterTestListener;
 import com.paxovision.execution.reporter.service.ReporterService;
-import extentReport.ExtentTestNGITestListener;
+import ReportingLayer.ExtentTestNGITestListener;
 import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;

@@ -1,21 +1,16 @@
-package PageContentObjects;
+package PageContentObjectModel;
 
-import baseFramework.PageUtils;
+import com.havenlife.vision.BaseFramework.PageUtils;
 import com.paxovision.execution.annotations.LogReport;
 import com.paxovision.execution.reporter.service.ReporterService;
-import extentReport.ExtentManager;
+import ReportingLayer.ExtentManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import org.testng.Assert;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.List;
-import java.util.Properties;
 
 /**
  * Created by shawon on 6/25/17.
