@@ -1,4 +1,4 @@
-package extentReport;
+package ReportingLayer;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;

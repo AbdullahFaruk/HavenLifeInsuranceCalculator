@@ -1,4 +1,4 @@
-package extentReport;
+package ReportingLayer;
 
 import com.aventstack.extentreports.AnalysisStrategy;
 import com.aventstack.extentreports.ExtentReports;

@@ -1,6 +1,6 @@
 package TestScenarioPage;
 
-import baseFramework.ScriptBase;
+import com.havenlife.vision.BaseFramework.ScriptBase;
 import org.testng.annotations.Test;
 
 /**
